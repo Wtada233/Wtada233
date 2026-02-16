@@ -40,6 +40,7 @@
 ### 作品展示
 
 ![LankeOS 演示](lankeos_demo.gif)
+![LankeOS 演示](lankeos_tests.gif)
 
 ---
 
